@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Short-nosed bandicoot","category":"Turquoise"},
+{"id":2,"name":"Snake-necked turtle","category":"Maroon"},
+{"id":3,"name":"Anaconda (unidentified)","category":"Pink"},
+{"id":4,"name":"Squirrel, palm","category":"Purple"},
+{"id":5,"name":"Tiger snake","category":"Orange"},
+{"id":6,"name":"African black crake","category":"Aquamarine"},
+{"id":7,"name":"Lava gull","category":"Indigo"},
+{"id":8,"name":"White-faced whistling duck","category":"Red"},
+{"id":9,"name":"Elephant, african","category":"Goldenrod"},
+{"id":10,"name":"Marine iguana","category":"Yellow"},
+{"id":11,"name":"Black swan","category":"Aquamarine"},
+{"id":12,"name":"European stork","category":"Crimson"},
+{"id":13,"name":"Seal, northern elephant","category":"Teal"},
+{"id":14,"name":"Owl, burrowing","category":"Goldenrod"},
+{"id":15,"name":"Opossum, american virginia","category":"Goldenrod"},
+{"id":16,"name":"Gecko (unidentified)","category":"Maroon"},
+{"id":17,"name":"Hoffman's sloth","category":"Mauv"},
+{"id":18,"name":"Sugar glider","category":"Pink"},
+{"id":19,"name":"Lapwing, southern","category":"Maroon"},
+{"id":20,"name":"Savannah deer (unidentified)","category":"Crimson"}
+]
+}
